@@ -2,7 +2,9 @@
 
 Co-founder and CEO of [EVRE](https://evre.ai).
 
-EVRE shows how people actually communicate in hard conversations at work. You can rehearse a performance review, a difficult customer call or an interview with an AI character, by voice or text. Or you can bring the transcript of a real conversation and see how it went. Every point in the evaluation links back to something that was said.
+EVRE helps companies and individuals see how they communicate. It reads a conversation against clear behavior criteria and links each result to something that was said.
+
+You can bring the transcript of a real conversation, or use EVRE from inside Claude or ChatGPT. You can also rehearse a performance review, a difficult customer call or an interview with an AI character and see it read against the same criteria.
 
 Things I've published here:
 
